@@ -22,6 +22,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### Android
 * [ArcGIS](https://play.google.com/store/apps/details?id=com.esri.android.client)
+* [Cadenza Mobile NG](https://play.google.com/store/apps/details?id=net.disy.cadenza.mobile.app&hl=en)
 * [Fieldtrip GB](https://play.google.com/store/apps/details?id=uk.ac.edina.mobile)
 * [Fulcrum](https://play.google.com/store/apps/details?id=com.spatialnetworks.fulcrum&hl=en)
 * [GeoSpago Forms](https://play.google.com/store/apps/details?id=com.geospago)
@@ -29,10 +30,12 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [Locus Map Free - Outdoor GPS](https://play.google.com/store/apps/details?id=menion.android.locus&feature=related_apps)
 * [Maps & Navigation — OsmAnd](https://play.google.com/store/apps/details?id=net.osmand)
 * [Maps & Navigation — OsmAnd+](https://play.google.com/store/apps/details?id=net.osmand.plus)
+* [Mappt - Mobile GIS Solution](https://play.google.com/store/apps/details?id=au.com.mappt)
 * [OruxMaps](https://play.google.com/store/apps/details?id=com.orux.oruxmaps)
 * 
 
 ### iOS
+* [Cadenza Mobile NG](https://itunes.apple.com/us/app/cadenza-mobile-ng/id1052754530?mt=8)
 * [Fieldtrip GB](https://itunes.apple.com/gb/app/fieldtrip-gb/id626772131?mt=8)
 * [Geospago Forms](https://itunes.apple.com/us/app/geospago-forms/id963602509?mt=8)
 * [OsmAnd Maps](https://itunes.apple.com/app/apple-store/id934850257?mt=8)
