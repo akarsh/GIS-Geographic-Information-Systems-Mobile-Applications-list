@@ -31,13 +31,18 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [Maps & Navigation — OsmAnd](https://play.google.com/store/apps/details?id=net.osmand)
 * [Maps & Navigation — OsmAnd+](https://play.google.com/store/apps/details?id=net.osmand.plus)
 * [Mappt - Mobile GIS Solution](https://play.google.com/store/apps/details?id=au.com.mappt)
+* [Mobile Data Collection](https://play.google.com/store/apps/details?id=com.giscloud.mdc)
+* [OpenPaths](https://play.google.com/store/apps/details?id=com.nytco.rnd.OpenPaths)
 * [OruxMaps](https://play.google.com/store/apps/details?id=com.orux.oruxmaps)
+* [QGIS - Experimental](https://play.google.com/store/apps/details?id=org.qgis.qgis&hl=en)
 * 
 
 ### iOS
 * [Cadenza Mobile NG](https://itunes.apple.com/us/app/cadenza-mobile-ng/id1052754530?mt=8)
 * [Fieldtrip GB](https://itunes.apple.com/gb/app/fieldtrip-gb/id626772131?mt=8)
 * [Geospago Forms](https://itunes.apple.com/us/app/geospago-forms/id963602509?mt=8)
+* [GIS Cloud Mobile Data Collection](https://itunes.apple.com/us/app/gis-cloud-mobile-data-collection/id640535923)
+* [OpenPaths](https://itunes.apple.com/app/openpaths/id493605283)
 * [OsmAnd Maps](https://itunes.apple.com/app/apple-store/id934850257?mt=8)
 * 
 
