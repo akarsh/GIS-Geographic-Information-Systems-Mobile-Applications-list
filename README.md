@@ -27,6 +27,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [Fulcrum](https://play.google.com/store/apps/details?id=com.spatialnetworks.fulcrum&hl=en)
 * [GeoSpago Forms](https://play.google.com/store/apps/details?id=com.geospago)
 * [GPS Benchmark](https://play.google.com/store/apps/details?id=com.gpsbenchmark.android)
+* [GPS Logger for Android](https://play.google.com/store/apps/details?id=com.mendhak.gpslogger)
 * [Locus Map Free - Outdoor GPS](https://play.google.com/store/apps/details?id=menion.android.locus&feature=related_apps)
 * [Maps & Navigation — OsmAnd](https://play.google.com/store/apps/details?id=net.osmand)
 * [Maps & Navigation — OsmAnd+](https://play.google.com/store/apps/details?id=net.osmand.plus)
