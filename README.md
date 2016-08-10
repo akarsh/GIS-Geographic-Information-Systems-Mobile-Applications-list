@@ -23,6 +23,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### Android
 * [ArcGIS](https://play.google.com/store/apps/details?id=com.esri.android.client)
 * [Fieldtrip GB](https://play.google.com/store/apps/details?id=uk.ac.edina.mobile)
+* [Fulcrum](https://play.google.com/store/apps/details?id=com.spatialnetworks.fulcrum&hl=en)
+* [GeoSpago Forms)[https://play.google.com/store/apps/details?id=com.geospago]
 * [GPS Benchmark](https://play.google.com/store/apps/details?id=com.gpsbenchmark.android)
 * [Locus Map Free - Outdoor GPS](https://play.google.com/store/apps/details?id=menion.android.locus&feature=related_apps)
 * [Maps & Navigation — OsmAnd](https://play.google.com/store/apps/details?id=net.osmand)
@@ -32,6 +34,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### iOS
 * [Fieldtrip GB](https://itunes.apple.com/gb/app/fieldtrip-gb/id626772131?mt=8)
+* [Geospago Forms](https://itunes.apple.com/us/app/geospago-forms/id963602509?mt=8)
 * [OsmAnd Maps](https://itunes.apple.com/app/apple-store/id934850257?mt=8)
 * 
 
