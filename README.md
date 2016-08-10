@@ -16,9 +16,9 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 + [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/akarsh/GIS-Geographic-Information-Systems-Mobile-Applications-list)
 
 ### Index
-* [Android](#Android)
-* [iOS](#iOS)
-* [WindowsPhone](#WindowsPhone)
+* [Android](#android)
+* [iOS](#ios)
+* [WindowsPhone](#windowsphone)
 
 ### Android
 * [ArcGIS](https://play.google.com/store/apps/details?id=com.esri.android.client)
